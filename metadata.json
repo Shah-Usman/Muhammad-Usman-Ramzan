@@ -1,0 +1,7 @@
+{
+  "name": "Visionary AI - Professional Video Studio",
+  "description": "A high-end text-to-video generation platform powered by Gemini Veo models. Create cinematic videos, extend existing clips, and use reference images to guide your creative vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
